@@ -9,13 +9,13 @@ Model is trained on both CPU and GPU(Nvidia) to compare the performance.
 
 # System requirements:
 1. Install Python3 
-   # sudo apt install python3.8
+   * # sudo apt install python3.8
 2. Install tensorflow
-   # conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
-   # export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/
-   # python3 -m pip install tensorflow
+   * # conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
+   * # export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/
+   * # python3 -m pip install tensorflow
 3. Install Numpy
-   # sudo apt install python3-numpy
+   * # sudo apt install python3-numpy
 4. (Optional)Install Jupyter
 5. Requires a kaggle account download the dataset
 
